@@ -1,0 +1,1 @@
+# ilkerkabacik.com — Next.js + Tailwind + next-themes\n\nPremium, multilingual personal site. See `/locales` for content.\n\n## Run\n\n```bash\npnpm i # or npm i / yarn\npnpm dev\n```\n\n## Deploy\nPush to GitHub → Import on Vercel.\n
